@@ -1,0 +1,16 @@
+/* Make the Firefox top bar transparent */
+#navigator-toolbox {
+    background: rgba(0,0,0,0.1) !important;
+}
+
+/* Optional: Hide the title bar if using Linux */
+#titlebar {
+    background: transparent !important;
+    border: none !important;
+}
+
+/* Adjust the tab bar */
+#TabsToolbar {
+    background: transparent !important;
+}
+
