@@ -2,3 +2,5 @@
 
 ## Infos:
 firefox folder is fond in: about:support
+
+./install.sh --tweaks float colorful nord rimless -t teal
